@@ -64,19 +64,11 @@ function Fifth() {
               navigation={true}
             >
               <SwiperSlide className={styles.slide_item}>
-                <p className={styles.first_slide_p}>
-                  <span>Club Participation</span>
+                <p className={styles.fifth_slide_p}>
+                  <span>Event Registration</span>
                   <br />
-                  participate in a club activities and events that interest
-                </p>
-              </SwiperSlide>
-
-              <SwiperSlide className={styles.slide_item}>
-                <p className={styles.third_slide_p}>
-                  <span>Fee Managment</span>
-                  <br />
-                  Easily manage and pay your fees, View your payment history,and
-                  stay on top of deadlines
+                  Register for university events and stay up-to-date on upcoming
+                  activities.
                 </p>
               </SwiperSlide>
               <SwiperSlide className={styles.slide_item}>
@@ -87,11 +79,18 @@ function Fifth() {
                 </p>
               </SwiperSlide>
               <SwiperSlide className={styles.slide_item}>
-                <p className={styles.fifth_slide_p}>
-                  <span>Event Registration</span>
+                <p className={styles.third_slide_p}>
+                  <span>Fee Managment</span>
                   <br />
-                  Register for university events and stay up-to-date on upcoming
-                  activities.
+                  Easily manage and pay your fees, View your payment history,and
+                  stay on top of deadlines
+                </p>
+              </SwiperSlide>
+              <SwiperSlide className={styles.slide_item}>
+                <p className={styles.first_slide_p}>
+                  <span>Club Participation</span>
+                  <br />
+                  participate in a club activities and events that interest
                 </p>
               </SwiperSlide>
             </Swiper>

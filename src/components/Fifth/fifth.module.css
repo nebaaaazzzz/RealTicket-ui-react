@@ -249,7 +249,8 @@
   font-family: Aeonik, Helvetica Neue, sans-serif;
   font-weight: 400;
   color: #fff;
-  font-size: 40px;
+
+  font-size: 33px;
   text-align: center;
 }
 @media (max-width: 900px) {
@@ -287,7 +288,7 @@
   font-family: Aeonik, Helvetica Neue, sans-serif;
   font-weight: 400;
   color: #fff;
-  font-size: 40px;
+  font-size: 27px;
   text-align: center;
 }
 
