@@ -24,9 +24,9 @@ function Third() {
             viewport={{ once: true }}
             className={styles.top_header}
           >
-            We are eliminating the issues
+            The Ultimate university Managment App -
             <span className={styles.top_header_span}>
-              of traditional ticketing
+              Designed to simplify your university life, Au Plus is a one-stop solution to all your accademic and extra-curricular needs.
             </span>
           </motion.h2>
         </div>
