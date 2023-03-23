@@ -17,8 +17,8 @@ function Second() {
       <div className={styles.second}>
         <div className={styles.second_left_half}>
           <h2 className={styles.second_left_half_header}>
-            Giving event organizer the power of
-            <span className={styles.second_header_span}>Smart ticketing</span>
+            Stay Connected with Your University Life Anytime
+            <span className={styles.second_header_span}>Anywhere with AU Plus App</span>
           </h2>
           <button className={styles.button}>
             <a className={styles.button_anchor} href="#request-demo">
