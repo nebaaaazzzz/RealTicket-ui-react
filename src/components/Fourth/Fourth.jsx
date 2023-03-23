@@ -19,8 +19,8 @@ function Fourth() {
             viewport={{ once: true }}
             className={styles.header}
           >
-            We are resetting the
-            <span>playing field</span>
+            Engage in Campus Life Like
+            <span>Never Before</span>
           </motion.h2>
         </div>
         <div style={{ opacity: 1 }}>
@@ -34,7 +34,7 @@ function Fourth() {
             viewport={{ once: true }}
             className={styles.p}
           >
-            realticket shifts the power to the people, where it belongs
+            Access Attendance, Events, Clubs, and Fees from One Central Hub
           </motion.p>
         </div>
         <div className={styles.content}>

@@ -34,8 +34,10 @@ function Fifth() {
               viewport={{ once: true }}
               className={styles.header}
             >
-              Event organizers enjoy advanced control with the real ticket
-              <span>Total Event Control Platform</span>
+              Au Pluse helps you stay upto date with your university life. From
+              tracking your attendance to staying updated on upcomming events
+              and clubs,
+              <span>you'll never miss a beat with AU Pulse</span>
             </motion.h2>
           </div>
         </div>
@@ -63,53 +65,33 @@ function Fifth() {
             >
               <SwiperSlide className={styles.slide_item}>
                 <p className={styles.first_slide_p}>
-                  <span>Control Over</span>
+                  <span>Club Participation</span>
                   <br />
-                  free-gouging
+                  participate in a club activities and events that interest
                 </p>
               </SwiperSlide>
-              <SwiperSlide className={styles.slide_item}>
-                <p className={styles.second_slide_p}>
-                  Personalized
-                  <br />
-                  experience
-                  <br />
-                  <span>for event goers</span>
-                </p>
-              </SwiperSlide>
+
               <SwiperSlide className={styles.slide_item}>
                 <p className={styles.third_slide_p}>
-                  <span>Event mapping</span>
+                  <span>Fee Managment</span>
                   <br />
-                  and navigation
-                  <br />
-                  capablilities
+                  Easily manage and pay your fees, View your payment history,and
+                  stay on top of deadlines
                 </p>
               </SwiperSlide>
               <SwiperSlide className={styles.slide_item}>
                 <p className={styles.fourth_slide_p}>
-                  <span>RealBackup eliminates</span>
+                  <span>Attendance Tracking</span>
                   <br />
-                  the fear of lost tickets
+                  Keep track of your attendance and never miss a class.
                 </p>
               </SwiperSlide>
               <SwiperSlide className={styles.slide_item}>
                 <p className={styles.fifth_slide_p}>
-                  <span>
-                    Real-time metrics
-                    <br />
-                    with
-                  </span>
-                  detailed
+                  <span>Event Registration</span>
                   <br />
-                  customer analytices
-                </p>
-              </SwiperSlide>
-              <SwiperSlide className={styles.slide_item}>
-                <p className={styles.sixth_slide_p}>
-                  <span>control-over</span>
-                  <br />
-                  fee-gouging
+                  Register for university events and stay up-to-date on upcoming
+                  activities.
                 </p>
               </SwiperSlide>
             </Swiper>
