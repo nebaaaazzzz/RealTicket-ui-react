@@ -30,6 +30,7 @@ function First() {
         }}
         path={deskleft}
         style={{
+              zIndex : -1,
           left: "0%",
           bottom: "0%",
         }}
