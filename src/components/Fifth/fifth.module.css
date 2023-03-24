@@ -387,7 +387,7 @@
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  padding-left: 6rem;
+
   width: 33%;
   min-width: min(450px, 100%);
 }
@@ -420,7 +420,7 @@
 @media (max-width: 900px) {
   .bottom_wrapper {
     width: 100%;
-    padding-left: 0;
+    margin-left: 0rem;
   }
 
   .bottom_wrapper .swiper-button-next:after,

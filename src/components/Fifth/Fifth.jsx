@@ -34,7 +34,7 @@ function Fifth() {
               viewport={{ once: true }}
               className={styles.header}
             >
-              Au Pluse helps you stay upto date with your university life. From
+              Au Pulse helps you stay upto date with your university life. From
               tracking your attendance to staying updated on upcomming events
               and clubs,
               <span>you'll never miss a beat with AU Pulse</span>
@@ -52,11 +52,12 @@ function Fifth() {
               }}
               spaceBetween={30}
               centeredSlides={true}
-              autoplay={{
-                reverseDirection: false,
-                delay: 2500,
-                disableOnInteraction: false,
-              }}
+              // autoplay={{
+              //   reverseDirection: false,
+              //   delay: 2500,
+              //   disableOnInteraction: false,
+              // }}
+              autoplay={false}
               sid
               pagination={{
                 clickable: true,

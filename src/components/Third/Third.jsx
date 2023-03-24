@@ -26,7 +26,8 @@ function Third() {
           >
             The Ultimate university Managment App -
             <span className={styles.top_header_span}>
-              Designed to simplify your university life, Au Plus is a one-stop solution to all your accademic and extra-curricular needs.
+              Designed to simplify your university life, Au Pulse is a one-stop
+              solution to all your accademic and extra-curricular needs.
             </span>
           </motion.h2>
         </div>
