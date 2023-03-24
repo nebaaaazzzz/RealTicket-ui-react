@@ -18,7 +18,10 @@ function Second() {
         <div className={styles.second_left_half}>
           <h2 className={styles.second_left_half_header}>
             Stay Connected with Your University Life Anytime,Anywhere
-            <span className={styles.second_header_span} style={{zIndex : 999}}> with AU Plus App</span>
+            <span className={styles.second_header_span} style={{ zIndex: 999 }}>
+              {" "}
+              with AU Pulse App
+            </span>
           </h2>
           <button className={styles.button}>
             <a className={styles.button_anchor} href="#request-demo">
